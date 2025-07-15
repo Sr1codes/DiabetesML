@@ -42,8 +42,8 @@ The label was created based on:
 
 ### 2. Random Forest (tuned)
 - Accuracy: **~99.96%**
-- Strength: Handles nonlinearities & imbalance like a champ 💪
-- Features ranked by importance (hint: `HbA1c` and `Fasting_Blood_Glucose` dominate)
+- Strength: Handles nonlinearities & imbalance
+- Features ranked by importance
 
 ## Evaluation
 
