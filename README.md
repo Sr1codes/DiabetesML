@@ -1,2 +1,2 @@
-# Predicting Diabetes using Machine Learning
-Diabetes Prediction in Machine Learning
+# Predicting Diabetes Risk using Machine Learning
+
