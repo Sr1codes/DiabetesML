@@ -45,7 +45,7 @@ The label was created based on:
 - Strength: Handles nonlinearities & imbalance
 - Features ranked by importance
 
-## Evaluation
+## Evaluation Reportsd
 
 -  **Accuracy**
 -  **Confusion Matrix**
